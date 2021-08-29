@@ -1,8 +1,8 @@
 # car_gallery
 
-A new Flutter project.
+A simple car gallery app using flutter framework
 
-## Getting Started
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
